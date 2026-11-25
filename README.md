@@ -45,5 +45,11 @@ This project demonstrates an AWS cloud infrastructure setup using EC2, IAM, Amaz
 - Git is a version control system.
 - GitHub is a platform for hosting Git repositories.
 - Commits save changes to a repository.
+
+
+## Branch Practice
+
+I created my first feature branch.
+I am learning how branches work in GitHub.
 ## Author
 Dileep
